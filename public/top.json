@@ -1,0 +1,26 @@
+[
+    {
+        "_id":"1",
+        "food":"bargar",
+        "dis":"lorem agasdh asvhasdd sdjvvgasd",
+        "price":"220",
+        "restorent":"raj restro",
+        "img":"https://www.foodandwine.com/thmb/DI29Houjc_ccAtFKly0BbVsusHc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/crispy-comte-cheesburgers-FT-RECIPE0921-6166c6552b7148e8a8561f7765ddf20b.jpg"
+    },
+    {
+        "_id":"2",
+        "food":"sendwitch",
+        "dis":"lorem agasdh asvhasdd sdjvvgasd",
+        "price":"220",
+        "restorent":"raj restro",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_StpqnWoNp9FFQ2hx3lP8UN1zKTAaqVsN3A&s"
+    },
+    {
+        "_id":"3",
+        "food":"pizza",
+        "dis":"lorem agasdh asvhasdd sdjvvgasd",
+        "price":"220",
+        "restorent":"raj restro",
+        "img":"https://media.istockphoto.com/id/1442417585/photo/person-getting-a-piece-of-cheesy-pepperoni-pizza.jpg?s=612x612&w=0&k=20&c=k60TjxKIOIxJpd4F4yLMVjsniB4W1BpEV4Mi_nb4uJU="
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "food_name": "Paneer Tikka",
+        "food_price": 250,
+        "food_description": "Grilled cottage cheese with spicy marinade.",
+        "restaurant_name": "Spice Garden",
+        "food_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkTmoN6HX1YlataD_t0nUSL1Re6-zhsCPikQ&s"
+    },
+    {
+        "food_name": "Veg Biryani",
+        "food_price": 200,
+        "food_description": "Fragrant rice cooked with mixed vegetables and spices.",
+        "restaurant_name": "Spice Garden",
+        "food_image": "https://i.ytimg.com/vi/Do7ZdUodDdw/maxresdefault.jpg"
+    },
+    {
+        "food_name": "Dal Makhani",
+        "food_price": 180,
+        "food_description": "Creamy lentils cooked with butter and spices.",
+        "restaurant_name": "Spice Garden",
+        "food_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAM_sU4h_Iz_foXrcRwo2H0NBHIgFdCv_KbA&s"
+    },
+    {
+        "food_name": "Palak Paneer",
+        "food_price": 220,
+        "food_description": "Spinach and cottage cheese curry.",
+        "restaurant_name": "Spice Garden",
+        "food_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlmYGdK7UW-_dmQ25ShlDJya2qowm68iXU2g&s"
+    },
+    {
+        "food_name": "Chole Bhature",
+        "food_price": 150,
+        "food_description": "Spicy chickpeas with fried bread.",
+        "restaurant_name": "Spice Garden",
+        "food_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqFHMCZ7CnPo5NEqxOwyckoODeiRyLxYmiHg&s"
+    },
+    {
+        "food_name": "Aloo Paratha",
+        "food_price": 120,
+        "food_description": "Stuffed potato flatbread.",
+        "restaurant_name": "Spice Garden",
+        "food_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRAHY73mqJq6ET9sMgPoNK4DTbWklVEYItHQ&s"
+    },
+    {
+        "food_name": "Gulab Jamun",
+        "food_price": 100,
+        "food_description": "Sweet fried dough balls in sugar syrup.",
+        "restaurant_name": "Spice Garden",
+        "food_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1L7gr3WiYIW9q5PoDy4-oEjzxGu7_NZwZtA&s"
+    },
+    {
+        "food_name": "Rasgulla",
+        "food_price": 90,
+        "food_description": "Soft spongy balls in sugar syrup.",
+        "restaurant_name": "Spice Garden",
+        "food_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJtUtPnKSVI0mKjpdzeJWIXF7e4VVhjayHSw&s"
+    },
+    {
+        "food_name": "Samosa",
+        "food_price": 50,
+        "food_description": "Fried pastry with spicy potato filling.",
+        "restaurant_name": "Spice Garden",
+        "food_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxnVgCV-6sbWMQ-OaALcEztviIakZJgzo5Jg&s"
+    },
+    {
+        "food_name": "Pav Bhaji",
+        "food_price": 130,
+        "food_description": "Spicy vegetable mash with buttered bread.",
+        "restaurant_name": "Spice Garden",
+        "food_image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/11/pav-bhaji.jpg"
+    },
+    {
+        "food_name": "Idli Sambar",
+        "food_price": 110,
+        "food_description": "Steamed rice cakes with lentil soup.",
+        "restaurant_name": "Spice Garden",
+        "food_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLCbB6rYGHgFW3wcjT6ZOY4WdE4gb2KzjEdA&s"
+    },
+    {
+        "food_name": "Dosa",
+        "food_price": 140,
+        "food_description": "Crispy rice and lentil crepe.",
+        "restaurant_name": "Spice Garden",
+        "food_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJVrC2Z7OCjmZQ1vrNmWWaJRrMaJ9HzFn2kg&s"
+    },
+    {
+        "food_name": "Vada Pav",
+        "food_price": 60,
+        "food_description": "Spicy potato fritter in a bun.",
+        "restaurant_name": "Spice Garden",
+        "food_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYPjqgA4mp3J-T5DBx6oucBYC5v_WligkX8w&s"
+    },
+    {
+        "food_name": "Rasmalai",
+        "food_price": 120,
+        "food_description": "Creamy cottage cheese in sweet milk.",
+        "restaurant_name": "Spice Garden",
+        "food_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRe_iE1P5sbsw7izWdPDzEIn-R8tK-3yRbLA&s"
+    },
+    {
+        "food_name": "Kheer",
+        "food_price": 80,
+        "food_description": "Rice pudding with nuts and saffron.",
+        "restaurant_name": "Spice Garden",
+        "food_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXVQ3lsQnQeb6sZy1unNrAMJBJOtgD9RLm5w&s"
+    },
+    {
+        "food_name": "Mutton Curry",
+        "food_price": 400,
+        "food_description": "Spicy mutton curry with rich gravy.",
+        "restaurant_name": "Spice Garden",
+        "food_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsxRVly3m2C7o4XTvYA6cPmLnwp1XsSOXaPg&s"
+    }
+]
